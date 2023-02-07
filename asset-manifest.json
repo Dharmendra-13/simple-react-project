@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/simple-react-project/static/css/main.9fbfc54f.css",
+    "main.js": "/simple-react-project/static/js/main.d22af9aa.js",
+    "static/media/computer4.jpg": "/simple-react-project/static/media/computer4.dcd480f01bfd48b97591.jpg",
+    "static/media/computer6.webp": "/simple-react-project/static/media/computer6.81a3c609e9bc4c9fbe5e.webp",
+    "static/media/group.jpeg": "/simple-react-project/static/media/group.3635974b10a63033309c.jpeg",
+    "static/media/computer7.jpg": "/simple-react-project/static/media/computer7.dda2fe900a760b2faf9d.jpg",
+    "static/media/computer2.jpg": "/simple-react-project/static/media/computer2.d7d8797ecd710b20f449.jpg",
+    "static/media/computer1.jpg": "/simple-react-project/static/media/computer1.1654e3838a9e0ee2fcef.jpg",
+    "static/media/computer3.jpg": "/simple-react-project/static/media/computer3.26b4927fd0bb441cf9a6.jpg",
+    "static/media/shandar.webp": "/simple-react-project/static/media/shandar.5780855cb1c2ab7a12e8.webp",
+    "index.html": "/simple-react-project/index.html",
+    "main.9fbfc54f.css.map": "/simple-react-project/static/css/main.9fbfc54f.css.map",
+    "main.d22af9aa.js.map": "/simple-react-project/static/js/main.d22af9aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fbfc54f.css",
+    "static/js/main.d22af9aa.js"
+  ]
+}
